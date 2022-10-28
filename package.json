@@ -10,6 +10,7 @@
     "bostrap": "yarn",
     "build:ui": "yarn workspace ui build",
     "build:theme": "yarn workspace ui build:theme",
+    "build:ETools": "yarn workspace e-tools build",
     "dev:website": "yarn workspace website dev"
   }
 }
